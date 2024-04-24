@@ -3,7 +3,7 @@
 
 🔭 My interests: Generally speaking, my research can be divided into two stages. On the one hand, I attempt to make some contributions to the data-driven algorithms themselves. Some common bottlenecks in deep learning have been focused on and improved in my research, such as learning with noisy labels. On the other hand, I make some efforts to adjust state-of-the-art methods in deep learning to improve some healthcare problems, especially in physiological signal monitoring.
 
-👯 Volunteer status：I am an invited reviewer of the IEEE Journal of Biomedical and Health Informatics and the Journal of Supercomputing. Besides, I am also a certified expert of Huawei to help its developers grow.
+👯 Volunteer status：I am an invited reviewer of the IEEE Journal of Biomedical and Health Informatics and the Journal of Supercomputing. Besides, I am also an AI expert certified by Huawei to help its developers grow.
 
 ❓ You are very welcomed to contact me regarding research-wise collaboration or working/study chance and experience.
 
