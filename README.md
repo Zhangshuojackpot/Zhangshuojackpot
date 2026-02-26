@@ -5,7 +5,7 @@
 
 👯 Volunteer status：I am an invited reviewer of the IEEE Journal of Biomedical and Health Informatics and the Journal of Supercomputing. Besides, I am also an AI expert certified by Huawei to help its developers grow.
 
-❓ You are very welcomed to contact me regarding research-wise collaboration or working/study chance and experience.
+❓ You are very welcome to contact me regarding research-wise collaboration, or working/study chance, and experience.
 
 📫 How to reach me: 📧shuo.zhang@eng.ox.ac.uk;📧zsvirgil666@gmail.com;📧zs_techo@163.com;
 
