@@ -11,7 +11,6 @@
 
 💬 To view my publications:https://scholar.google.com.hk/citations?user=iz0f2ukAAAAJ&hl=zh-CN
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhangshuojackpot)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Zhangshuojackpot/Zhangshuojackpot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,4 +24,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhangshuojackpot)](https://github.com/anuraghazra/github-readme-stats)
 -->
